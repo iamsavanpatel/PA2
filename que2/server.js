@@ -49,6 +49,6 @@ app.get("/logincheck",(req,res)=>{
     }
 });
 
-app.listen(5000,()=>{
-    console.log("App is running....");
+app.listen(3000,()=>{
+    console.log("Done");
 })
